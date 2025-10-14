@@ -88,11 +88,8 @@ changes visible but register a compensatory action which is performed if
 something goes wrong. We call the model LRA (short for Long Running
 Action) and is based on work done within the
 https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=ws-caf[OASIS
-Web Services Composite Application Framework Technical Committee],
-namely
-https://www.oasis-open.org/committees/document.php?document_id=12794[Long
-Running Action transaction model], but updated to be more suited for use
-in microservice based architectures.
+Web Services Composite Application Framework Technical Committee]
+but updated to be more suited for use in microservice based architectures.
 
 In the LRA model, an activity reflects business interactions: all work
 performed within the scope of an activity is required to be
